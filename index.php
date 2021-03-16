@@ -6,11 +6,11 @@
 <meta name="viewport" content="width=device-width">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="stylesheet" type="text/css" href="http://vg.pe.hu/css/marquee.css" />
 <link href="style.css" rel="stylesheet">
 <title>座右の銘を交換したい | 大 chotto crazy 2020</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-<script src="http://vg.pe.hu/js/endless_scroll_min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://vg.pe.hu/up/howto/marquee/marquee.css" />
+<script src="http://vg.pe.hu/up/howto/marquee/endless_scroll_min.js" type="text/javascript"></script>
 <script src="bgm.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
