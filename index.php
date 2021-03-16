@@ -9,8 +9,8 @@
 <link href="style.css" rel="stylesheet">
 <title>座右の銘を交換したい | 大 chotto crazy 2020</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="http://vg.pe.hu/up/howto/marquee/marquee.css" />
-<script src="http://vg.pe.hu/up/howto/marquee/endless_scroll_min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://chottocrazy.pe.hu/css/marquee.css" />
+<script src="http://chottocrazy.pe.hu/js/endless_scroll_min.js" type="text/javascript"></script>
 <script src="bgm.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
