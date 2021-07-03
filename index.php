@@ -9,8 +9,8 @@
 <link href="style.css" rel="stylesheet">
 <title>座右の銘を交換したい | 大 chotto crazy 2020</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="http://chottocrazy.pe.hu/css/marquee.css" />
-<script src="http://chottocrazy.pe.hu/js/endless_scroll_min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://creative-community.pe.hu/coding/js/marquee/marquee.css" />
+<script src="http://creative-community.pe.hu/coding/js/marquee/endless_scroll_min.js" type="text/javascript"></script>
 <script src="bgm.js" type="text/javascript"></script>
 <script type="text/javascript">
 $(function(){
@@ -29,7 +29,7 @@ $(function(){
   font-family:"Orchard";
 }
 </style>
-</head>	
+</head>
 <body>
 <div id="howto" class="popup" style="display:none;" onclick="sound()">
 <p><iframe src="about.html"></iframe></p>
@@ -120,10 +120,10 @@ $(function(){
 
 <script type="text/javascript">
 $(window).load(function () {
-    $("#s3").endlessScroll({ width: '100%', height: '2rem', steps: -1, speed: 10, mousestop: true }); 
-}); 
+    $("#s3").endlessScroll({ width: '100%', height: '2rem', steps: -1, speed: 10, mousestop: true });
+});
 </script>
-	
+
 <h2><span class="left">座右の銘を交換したい</span></h2>
 <section id="submit" onclick="sound()">
     <form action="submit.php" method="post">
@@ -181,7 +181,7 @@ $(window).load(function () {
 <audio id="audio" controls autoplay loop>
 <source src="bgm/top_1.wav" type="audio/wav"/>
 </audio>
-</div>   
+</div>
 <script type="text/javascript">
 $(function() {
     var arr = [];
